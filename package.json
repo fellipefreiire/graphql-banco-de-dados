@@ -1,0 +1,12 @@
+{
+  "name": "banco-de-dados",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felipe Freire Alves de Oliveira <fellipefreiire3@gmail.com> (https://github.com/fellipefreiire)",
+  "license": "MIT"
+}
