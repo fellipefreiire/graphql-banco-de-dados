@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Felipe Freire Alves de Oliveira <fellipefreiire3@gmail.com> (https://github.com/fellipefreiire)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.21.5",
+    "mysql": "^2.18.1"
+  }
 }
